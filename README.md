@@ -21,4 +21,4 @@ Step 6: Created dashboard, connected all slicers
 			
 5. What can I predict?			
 Sales for next 6 months (2022/9 - 2023/3) will be around $ 990 , with lower boundaries of 200 and upper boundaries of 1780.			
-![image](https://github.com/JERR311/Excel_project_coffee_order/assets/108166291/b4f06993-110a-4cfb-ab50-b9cbe6a2467c)
+
